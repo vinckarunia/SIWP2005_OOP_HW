@@ -23,7 +23,9 @@ Requirement Analysis (FURPS)
 Use Case Stories
 > Mahasiswa Melihat Jadwal Kuliah:
 > - Sebagai mahasiswa, saya ingin melihat jadwal kuliah saya untuk semester ini.
+>   
 > Dosen Mengunggah Materi Kuliah:
 > - Sebagai dosen, saya ingin mengunggah file presentasi untuk materi kuliah minggu ini.
-> Administrator Mengelola Data Akademik:
+>
+>  Administrator Mengelola Data Akademik:
 > - Sebagai administrator, saya ingin menambahkan/mengubah/menghapus informasi mata kuliah di sistem.
